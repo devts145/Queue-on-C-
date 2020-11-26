@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Реализация очереди", "Реализация очереди\Реализация очереди.csproj", "{7F732004-6FF0-4A6E-9053-165A0D3372D1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F732004-6FF0-4A6E-9053-165A0D3372D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F732004-6FF0-4A6E-9053-165A0D3372D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F732004-6FF0-4A6E-9053-165A0D3372D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F732004-6FF0-4A6E-9053-165A0D3372D1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {950FBF18-34BA-41BC-9C39-1AA36BDD7479}
+	EndGlobalSection
+EndGlobal

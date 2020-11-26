@@ -1,0 +1,7 @@
+C:\Users\Tsekv\Desktop\9 КЛАСС И С#\Реализация очереди\Реализация очереди\bin\Debug\Реализация очереди.exe.config
+C:\Users\Tsekv\Desktop\9 КЛАСС И С#\Реализация очереди\Реализация очереди\bin\Debug\Реализация очереди.exe
+C:\Users\Tsekv\Desktop\9 КЛАСС И С#\Реализация очереди\Реализация очереди\bin\Debug\Реализация очереди.pdb
+C:\Users\Tsekv\Desktop\9 КЛАСС И С#\Реализация очереди\Реализация очереди\obj\Debug\Реализация очереди.csprojAssemblyReference.cache
+C:\Users\Tsekv\Desktop\9 КЛАСС И С#\Реализация очереди\Реализация очереди\obj\Debug\Реализация очереди.csproj.CoreCompileInputs.cache
+C:\Users\Tsekv\Desktop\9 КЛАСС И С#\Реализация очереди\Реализация очереди\obj\Debug\Реализация очереди.exe
+C:\Users\Tsekv\Desktop\9 КЛАСС И С#\Реализация очереди\Реализация очереди\obj\Debug\Реализация очереди.pdb
